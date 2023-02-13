@@ -1,0 +1,14 @@
+FrontEnd: ReactNative with expo cli
+npm
+nodejs ver 16.9.0
+
+What is the application about?
+Smart e.Pharmacist is a mobile application that is used to search for prescriptions or alternatives to
+medications that a user is currently taking. Patients may take many medicines for the same condition in
+the misguided notion that this may speed up the healing process, while in fact the Drug-Drug interaction
+of some prescriptions may cause harm to the patients. Using this app, the user can scan their doctor-prescribed prescription, 
+and the system will determine whether the medication combination is safe to take. 
+The app is divided into two interfaces: one for patients and one for qualified and licensed
+specialists. Users can look up medications based on their symptoms, consult a doctor, search for any
+Drug-Drug Interactions, and so on. The Artificial Intelligence model will be trained using the datasets
+obtained from the DrugBank.
